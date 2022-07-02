@@ -1,9 +1,10 @@
-function exponentionN(number, n){
+/*
+function exponentN(number, n){
     return number**n;
 }
 function getNumbers() {
    let number =  prompt("number>=1", '')
     let numberExp = prompt("numberExp>=1", '')
-    return exponentionN(number, numberExp)
+    return exponentN(number, numberExp)
 }
-console.log(getNumbers())
+console.log(getNumbers())*/
